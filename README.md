@@ -1,0 +1,1 @@
+The current repository contains python codes to the questions mentioned in HCL GUVI Python Task 6 - [https://docs.google.com/document/d/1J426F0lUYTxl63BjuUfRcoFxQgqxXpZihQpH9VKT1qA/edit?tab=t.0](https://docs.google.com/document/d/1JNA3_fJG-CIhDfSVgJd7LG4ohhzTO6ycElHmLWnb4QQ/edit?tab=t.0)
